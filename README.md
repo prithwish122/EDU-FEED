@@ -1,9 +1,11 @@
-﻿# Game-Grants
+﻿# EDU-FEED
 
  ##Vision :
+ 
  Empowering educators and students with transparent, decentralized feedback to foster continuous improvement and innovation on Educhain.
 
  ##Description: 
+ 
 Educhain's decentralized feedback app revolutionizes educational feedback by providing a transparent, secure platform where students and educators can exchange insights. Through blockchain technology, feedback becomes immutable and traceable, ensuring authenticity and fostering a culture of continuous improvement. This app enhances educational interactions with real-time, reliable feedback mechanisms
 Referred By HACKQUEST
 
